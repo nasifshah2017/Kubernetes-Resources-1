@@ -1,0 +1,1 @@
+https://kubernetes.io/docs/concepts/services-networking/service/#why-not-use-round-robin-dns

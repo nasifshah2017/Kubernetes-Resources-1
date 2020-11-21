@@ -1,0 +1,1 @@
+https://github.com/BretFisher/kubernetes-mastery/blob/mastery/k8s/dockercoins-compose.yml
